@@ -15,7 +15,7 @@
 | D | PyTorch Lightning | LightningModule · Trainer | [▶ Watch](https://youtu.be/i4cz5Ak06cs) |
 | E-i | TF Low-Level | tf.Variable · GradientTape | [▶ Watch](https://youtu.be/KqLxT59ywOI) |
 | E-ii | TF Built-in Layers | Dense layers · GradientTape loop | [▶ Watch](https://youtu.be/O8aZBL4AHpc) |
-| E-iii | TF Functional API | Input→Dense graph · Model · fit | [▶ Watch](YOUR_YOUTUBE_LINK_E3) |
+| E-iii | TF Functional API | Input→Dense graph · Model · fit | [▶ Watch](https://youtu.be/rz3WgDOEjis) |
 | E-iv | TF Sequential | Sequential · compile · fit | [▶ Watch](YOUR_YOUTUBE_LINK_E4) |
 
 > **How to add your links:** Replace each `YOUR_YOUTUBE_LINK_X` above with your actual YouTube URL.  
