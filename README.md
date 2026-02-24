@@ -9,7 +9,7 @@
 
 | # | Colab | Description | Video |
 |---|-------|-------------|-------|
-| A | NumPy from Scratch | Manual backprop · tf.einsum · 4D plot | [▶ Watch](YOUR_YOUTUBE_LINK_A) |
+| A | NumPy from Scratch | Manual backprop · tf.einsum · 4D plot | [▶ Watch](https://youtu.be/eSP1MW2Jxck) |
 | B | PyTorch Scratch | Raw tensors · no nn.Linear | [▶ Watch](YOUR_YOUTUBE_LINK_B) |
 | C | PyTorch nn.Module | Class-based · built-in layers | [▶ Watch](YOUR_YOUTUBE_LINK_C) |
 | D | PyTorch Lightning | LightningModule · Trainer | [▶ Watch](YOUR_YOUTUBE_LINK_D) |
